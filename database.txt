@@ -1,3 +1,2 @@
 Database file created.
-
-I am reason for the conflict.
+Conflict resolved.
